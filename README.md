@@ -7,12 +7,12 @@ Aplicación web full-stack para la gestión de tareas, desarrollada con arquitec
 * **Frontend:** React con TypeScript
 * **Base de Datos:** SQL Server (EF Core)
 
-## ✨ Características
+##  Características
 * Gestión completa de tareas (CRUD).
 * Autenticación basada en JWT.
 * Arquitectura escalable y desacoplada.
 
-## 🚀 Instalación
+##  Instalación
 
 ### Requisitos previos
 * .NET 8.0 SDK
