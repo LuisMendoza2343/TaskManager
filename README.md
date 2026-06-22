@@ -2,7 +2,7 @@
 
 Aplicación web full-stack para la gestión de tareas, desarrollada con arquitectura limpia y principios SOLID.
 
-## 🛠 Tecnologías
+## Tecnologías
 * **Backend:** ASP.NET Core (C#)
 * **Frontend:** React con TypeScript
 * **Base de Datos:** SQL Server (EF Core)
