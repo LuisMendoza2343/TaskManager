@@ -31,3 +31,8 @@ Aplicación web full-stack para la gestión de tareas, desarrollada con arquitec
 
 ### Base de Datos
 Ejecuta el archivo `script.sql` en tu instancia de SQL Server para inicializar el esquema necesario.
+
+### IMPORTANTE PARA ACCESO A LA PP:
+
+Usuario: admin
+Password: password123
